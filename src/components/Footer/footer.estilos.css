@@ -1,0 +1,33 @@
+footer {
+    margin-top: 80px;
+    padding: 32px 20px;
+    text-align: center;
+    background-color: #020d16;
+    color: #8faab8;
+    font-family: "Work Sans", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+footer p {
+    margin: 6px 0;
+}
+
+footer p:first-child {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.redes-sociais {
+    justify-content: end;
+}
+
+footer a {
+    color: #42a6c6;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}

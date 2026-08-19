@@ -1,0 +1,10 @@
+.banner {
+    background: #000912;
+    display: flex;
+    justify-content: center;
+}
+.banner img {
+    max-width: 100%;
+    height: auto;
+    object-fit: fill;
+}
